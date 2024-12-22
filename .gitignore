@@ -1,0 +1,25 @@
+# python
+.venv/
+*/fashion-mnist-data/
+/temp
+**/__pycache__
+.env
+.pytest_cache
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+*.log
+profile_result
+.idea
+*.db
+*.lock
+.DS_Store
+data
+
+# node
+node_modules
+*.sqlite
